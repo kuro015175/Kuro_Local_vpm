@@ -1,7 +1,7 @@
 {
     "name":"https://docs.hai-vr.dev",
     "id":"dev.hai-vr.vpm",
-    "url":"https://hai-vr.github.io/vpm-listing/index.json",
+    "url":"https://kuro015175.github.io/vpm-listing/index.json",
     "author":{
         "email":"hai-vr@users.noreply.github.com",
         "name":"Haï~",
@@ -9,7 +9,7 @@
     },
     "description":"Haï~ listing",
     "infoLink":{
-        "url":"http://github.com/hai-vr/vpm-listing",
+        "url":"http://github.com/kuro015175/vpm-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
