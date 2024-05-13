@@ -1,29 +1,37 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/kuro015175-package-listing/index.json",
+    "name":"https://docs.hai-vr.dev",
+    "id":"dev.hai-vr.vpm",
+    "url":"https://hai-vr.github.io/vpm-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"hai-vr@users.noreply.github.com",
+        "name":"Haï~",
+        "url":"https://docs.hai-vr.dev/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Haï~ listing",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/kuro015175-package-listing",
+        "url":"http://github.com/hai-vr/vpm-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip",
-                "https://github.com/kuro015175/kurocs/releases/download/sciprt/Kuro_Scipt.zip"
-            ]
-        }
+        "hai-vr/av3-animator-as-code",
+        "hai-vr/animator-as-code-vrchat",
+        "hai-vr/animator-as-code-vrchat-destructive-workflow",
+        "hai-vr/animator-as-code-ndmf-processor",
+        "hai-vr/modular-avatar-as-code",
+        "hai-vr/vcc-dependencies-for-vixen",
+        "hai-vr/blendtree-viewer",
+        "hai-vr/resilience-toolkit",
+        "hai-vr/visual-expressions-editor-vcc",
+        "hai-vr/animation-viewer-vcc",
+        "hai-vr/blendshape-viewer-vcc",
+        "hai-vr/property-finder",
+        "hai-vr/lightbox-viewer",
+        "hai-vr/fuck-osc-config",
+        "hai-vr/prefabulous-avatar",
+        "hai-vr/combo-gesture-expressions-av3",
+        "hai-vr/convert-combogesture-to-faceemo",
+        "hai-vr/denormalized-avatar-exporter",
+        "kuro015175/kurocs"
     ]
 }
